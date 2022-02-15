@@ -30,4 +30,6 @@ def Print_MainMenu():
     print("(E) Grade Computation")
     print("(F) View Student Grade per Section")
     print("(G) View All Student")
-    print("(X) Add Student")
+    print("(X) awdawdwadawdaw")
+
+Print_MainMenu()
