@@ -18,9 +18,9 @@ def main():
 # Function to add student.
 def Print_MainMenu():
     print("MAIN MENU --")
-    print("(A) Add Student") # Add Student --> Select Section??
-    print("(B) Add Course") # Select Section --> Select Course??
-    print("(C) Add Section") # Add Section
+    print("(A) Student") # Add Student --> Select Section??
+    print("(B) Course") # Select Section --> Select Course??
+    print("(C) Section") # Add Section
     print("(D) View Students per Section")
     print("(X) Exit")
 
